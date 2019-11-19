@@ -6,8 +6,11 @@ Recommends similar apparel products using content-based recommendation approach.
 2) word2vec_model
 - https://drive.google.com/open?id=1VAzVjLjJzWz2PYHjaoR60dhSXAtVHsoY
 
+##### Pre-processed Amazon dataset of 183k products with 19 features to 28k products & used it to build a model.
 
-Data Set 
+##### Implemented Word2Vec & TF-IDF to find similar products and enhanced recommendation results by integrating module to find similar products by images using VGG16 CNN model.
+
+## Data Set Overview
 - Number of data points :  183138 (approx. 183k)
 - Number of features/variables: 19
 - Data attributes <br />
