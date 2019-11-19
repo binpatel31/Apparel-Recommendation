@@ -34,7 +34,19 @@ Recommends similar apparel products using content-based recommendation approach.
   r) Sku<br />
   s) Small_image_url<br />
   t) reviews<br />
+
+### Approaches for Recommendation 
+<br/>
+
+- Text Based Similarity 
+  - Bag Of Word 
+  - TF-IDF 
+  - IDF
  
+- word2vec
+- Image features based product similarity
+
+
 ### Recommendation Result 
 <br/>
 
