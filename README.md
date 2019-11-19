@@ -38,7 +38,7 @@ Recommends similar apparel products using content-based recommendation approach.
 ### Recommendation Result 
 <br/>
 
--  Products similar to First one 
+-  Products similar to currently viewed product "Burnt umber Tiger tshirt with zebra stripes" 
 <br/>
 
 <img src="Capture.JPG"></img>
