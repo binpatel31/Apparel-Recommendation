@@ -5,10 +5,11 @@ Recommends similar apparel products using content-based recommendation approach.
 1) tops_fashion.json
 2) word2vec_model
 - https://drive.google.com/open?id=1VAzVjLjJzWz2PYHjaoR60dhSXAtVHsoY
+<br/>
 
-##### Pre-processed Amazon dataset of 183k products with 19 features to 28k products & used it to build a model.
+- ##### Pre-processed Amazon dataset of 183k products with 19 features to 28k products & used it to build a model.
 
-##### Implemented Word2Vec & TF-IDF to find similar products and enhanced recommendation results by integrating module to find similar products by images using VGG16 CNN model.
+- ##### Implemented Word2Vec & TF-IDF to find similar products and enhanced recommendation results by integrating module to find similar products by images using VGG16 CNN model.
 
 ## Data Set Overview
 - Number of data points :  183138 (approx. 183k)
