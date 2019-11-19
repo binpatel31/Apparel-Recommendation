@@ -35,3 +35,10 @@ Recommends similar apparel products using content-based recommendation approach.
   s) Small_image_url<br />
   t) reviews<br />
  
+### Recommendation Result 
+<br/>
+
+-  Products similar to First one 
+<br/>
+
+<img src="Capture.JPG"></img>
